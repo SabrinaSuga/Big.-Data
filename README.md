@@ -17,7 +17,7 @@ Semestre Letivo: 5.
 
 Integrante: Sabrina Larissa Barbosa Torres.
 
-Repositório: https://github.com/samzinha23/Trabalho-Pr-tico-.git
+Repositório: https://github.com/SabrinaSuga/Big.-Data.git)
 
 <hr>
 
