@@ -7,7 +7,7 @@ ajuste de tipos de dados — etapas essenciais para garantir a consistência das
 
 Outro ponto importante foi aprender a extrair informações gerais sobre um conjunto de dados,
 como a quantidade de linhas e colunas, tipos de dados, existência de valores nulos e o uso de memória.
-Isso me ajudou a compreender melhor a estrutura e as características do dataset de forma mais técnica e detalhada.
+Isso me ajudou a compreender melhor a estrutura e as características do dataset, de forma mais técnica e detalhada.
 Também explorei as opções de configuração e visualização do Pandas, o que é muito útil ao lidar com conjuntos grandes de informações.
 
 No geral, essa prática me ajudou a compreender melhor como o Pandas é uma ferramenta poderosa e indispensável para quem deseja trabalhar
