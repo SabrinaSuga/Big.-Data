@@ -95,7 +95,7 @@ Material necessário para a prática📚
     Imprima o dataframe e verifique se todas as transformações foram executadas
     conforme solicitado nos passos anteriores.
 <hr>
-   <h1> ✨Conclusão Geral✨</h1> 
+   <h1> ✨Conclusão Do Trabalho Prático✨</h1> 
    
 Com esse trabalho, consegui praticar de maneira clara como usar o Python e o Pandas para realizar leitura, análise e manipulação de dados. Seguindo o roteiro de prática, comecei pela leitura do arquivo CSV e, em seguida, explorei as informações do dataset, identificando erros e inconsistências. Foi possível corrigir problemas como datas fora do padrão e valores faltando, o que tornou a base muito mais organizada.
 
@@ -403,7 +403,7 @@ DataFrame Final ✨
 
 <hr>
 
-<h2>✨ Conclusão Geral</h2>
+<h2>✨ Conclusão Das Microatividades </h2>
 
 Durante a realização das microatividades, consegui entender na prática como a biblioteca Pandas facilita o trabalho com dados no Python. Aprendi a importar arquivos CSV, visualizar os dados de diferentes formas e também a criar subconjuntos específicos conforme a necessidade.
 
