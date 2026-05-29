@@ -11,7 +11,8 @@ Curso: Desenvolvimento Full Stack.
  
 Disciplina: Tecnologias Para Desenv. de Solucoes de Big Data.
  
-Número da Turma: 2025.1
+Número da Turma: DGT2823 -
+9002
  
 Semestre Letivo: 5.
 
