@@ -17,7 +17,7 @@ Semestre Letivo: 5.
 
 Integrante: Sabrina Larissa Barbosa Torres.
 
-Repositório: https://github.com/SabrinaSuga/Big.-Data.git)
+Repositório: https://github.com/SabrinaSuga/Big.-Data.git
 
 <hr>
 
@@ -107,7 +107,7 @@ Além disso, percebi o quanto o Python e o Pandas são ferramentas incríveis pa
 <h2> Codigos🎯 </h2>
 
 # As atividades foram desenvolvidas no Google Colab
-https://github.com/samzinha23/Trabalho-Pr-tico-.git
+https://github.com/SabrinaSuga/Big.-Data.git
 ``` Python
 import pandas as pd
 import numpy as np
@@ -420,7 +420,7 @@ No geral, essa prática me ajudou a compreender melhor como o Pandas é uma ferr
 <h2> Codigos </h2>
 
 # As atividades foram desenvolvidas no Google Colab.
- https://github.com/samzinha23/Microatividades_Sam.git
+ https://github.com/SabrinaSuga/Big.-Data.git
 
 ``` Python
 [1] pip install pandas
